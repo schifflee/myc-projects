@@ -1,0 +1,10 @@
+C:\Users\liuya\source\repos\MyKTV Management Studio\netbench\bin\Debug\netbench.exe
+C:\Users\liuya\source\repos\MyKTV Management Studio\netbench\bin\Debug\netbench.pdb
+C:\Users\liuya\source\repos\MyKTV Management Studio\netbench\bin\Debug\log4net.dll
+C:\Users\liuya\source\repos\MyKTV Management Studio\netbench\bin\Debug\log4net.xml
+C:\Users\liuya\source\repos\MyKTV Management Studio\netbench\obj\Debug\netbench.csproj.CoreCompileInputs.cache
+C:\Users\liuya\source\repos\MyKTV Management Studio\netbench\obj\Debug\netbench.csproj.CopyComplete
+C:\Users\liuya\source\repos\MyKTV Management Studio\netbench\obj\Debug\netbench.exe
+C:\Users\liuya\source\repos\MyKTV Management Studio\netbench\obj\Debug\netbench.pdb
+C:\Users\liuya\source\repos\MyKTV Management Studio\netbench\bin\Debug\netbench.exe.config
+C:\Users\liuya\source\repos\MyKTV Management Studio\netbench\obj\Debug\netbench.csprojAssemblyReference.cache

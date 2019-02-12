@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ShowList>
+	<Movie>
+		<Name>不二神探</Name>
+		<Poster>不二神探.jpg</Poster>
+		<Director>王子鸣</Director>
+		<Actor>李连杰、文章、陈妍希</Actor>
+		<Type>Action</Type>
+            <Summary>影片讲述了警局乌龙神探王不二在同事黄飞红和女上司Angela的协助下破获由女演员刘金水引发的“微笑杀人案”的故事。</Summary>
+		<Price>60.00</Price>
+		<Schedule>
+			<Item>9:00</Item>
+			<Item>13:00</Item>
+		</Schedule>
+	</Movie>
+	<Movie>
+		<Name>西游降魔篇</Name>
+		<Poster>西游降魔篇.jpg</Poster>
+		<Director>郭子健、周星驰</Director>
+		<Actor>黄渤、舒淇、文章</Actor>
+		<Type>Comedy</Type>
+            <Summary>影片故事围绕年少时期的唐僧与段小姐的相识经过及冒险历程，其中更会交代周星驰经典对白“爱你一万年”的源起， 故事中涉及一段爱恨交缠的感情。</Summary>
+		<Price>60.00</Price>
+		<Schedule>
+			<Item>11:20</Item>
+			<Item>15:45</Item>
+			<Item>19:25</Item>
+		</Schedule>
+	</Movie>
+	<Movie>
+		<Name>中国合伙人</Name>
+		<Poster>中国合伙人.jpg</Poster>
+		<Director>陈可辛</Director>
+		<Actor>黄晓明、邓超、佟大为</Actor>
+		<Type>Comedy</Type>
+             <Summary>该片讲述了“土鳖”成东青、“海龟”孟晓骏和“愤青”王阳从20世纪80年代到21世纪，大时代下三个年轻人从学生年代相遇、相识，共同创办英语培训学校，最终实现“中国式梦想”的故事。</Summary>
+		<Price>70</Price>
+		<Schedule>
+			<Item>21:00</Item>
+			<Item>23:10</Item>
+		</Schedule>
+	</Movie>
+	<Movie>
+		<Name>钢铁侠3</Name>
+		<Poster>钢铁侠3.jpg</Poster>
+		<Director>沙恩布莱克</Director>
+		<Actor>小罗伯特唐尼</Actor>
+		<Type>Action</Type>
+            <Summary>影片根据漫威漫画改编，故事时间发生在《复仇者联盟》纽约大战结束之后，讲述了托尼·斯塔克的生活被强敌毁灭殆尽，无路可退的他必须依靠精良的高科技装备以及过人才智，保护自己和身边最亲近的人，同时揪出真正的幕后元凶的故事。</Summary>
+		<Price>70.00</Price>
+		<Schedule>
+			<Item>17:30</Item>
+		</Schedule>
+	</Movie>
+</ShowList>

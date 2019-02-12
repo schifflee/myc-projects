@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1DBB9012-E4C6-40B0-A9BF-C5B4F6287978}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MyKTV_Management_Studio</RootNamespace>
+    <AssemblyName>MyKTV Management Studio</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ChnCharInfo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=18f031bd02e5e291, processorArchitecture=MSIL">
+      <HintPath>..\packages\Mex13.PinYin.1.0.0.1\lib\ChnCharInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=14.1.0.0, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="Mex13.PinYin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Mex13.PinYin.1.0.0.1\lib\Mex13.PinYin.dll</HintPath>
+    </Reference>
+    <Reference Include="NPinyin, Version=0.2.6321.26573, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Mex13.PinYin.1.0.0.1\lib\NPinyin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dao\AdministratorDao.cs" />
+    <Compile Include="Dao\AdministratorDaoImpl.cs" />
+    <Compile Include="Dao\SingerDaoImpl.cs" />
+    <Compile Include="Dao\SingerDao.cs" />
+    <Compile Include="Dao\SongDao.cs" />
+    <Compile Include="Dao\SongDaoImpl.cs" />
+    <Compile Include="Forms\FrmAddSong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmAddSong.Designer.cs">
+      <DependentUpon>FrmAddSong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmForgotPWD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmForgotPWD.Designer.cs">
+      <DependentUpon>FrmForgotPWD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dao\SQLServerBaseDao.cs" />
+    <Compile Include="Forms\FrmSongsInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSongsInfo.Designer.cs">
+      <DependentUpon>FrmSongsInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PARAMS.cs" />
+    <Compile Include="POJO\Singer.cs" />
+    <Compile Include="POJO\Song.cs" />
+    <Compile Include="Service\AdministratorServiceImpl.cs" />
+    <Compile Include="Service\SingerService.cs" />
+    <Compile Include="Service\SingerServiceImpl.cs" />
+    <Compile Include="Service\SongService.cs" />
+    <Compile Include="Service\SongServiceImpl.cs" />
+    <Compile Include="Utils\AdminInfoUtil.cs" />
+    <Compile Include="Utils\DGVOperation.cs" />
+    <Compile Include="Utils\Pagination.cs" />
+    <Compile Include="Utils\InfoUtil.cs" />
+    <Compile Include="Utils\SQLServerHelper.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="POJO\Administrator.cs" />
+    <Compile Include="Service\AdministratorService.cs" />
+    <Compile Include="Utils\StringUtil.cs" />
+    <Compile Include="Utils\ValidationUtil.cs" />
+    <EmbeddedResource Include="Forms\FrmAddSong.resx">
+      <DependentUpon>FrmAddSong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmForgotPWD.resx">
+      <DependentUpon>FrmForgotPWD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSongsInfo.resx">
+      <DependentUpon>FrmSongsInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\Song.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Skins\exit.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

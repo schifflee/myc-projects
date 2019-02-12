@@ -1,0 +1,6 @@
+C:\Users\liuya\source\repos\WindowsFormsApp4\CommModule\bin\Debug\CommModule.dll
+C:\Users\liuya\source\repos\WindowsFormsApp4\CommModule\bin\Debug\CommModule.pdb
+C:\Users\liuya\source\repos\WindowsFormsApp4\CommModule\obj\Debug\CommModule.csproj.CoreCompileInputs.cache
+C:\Users\liuya\source\repos\WindowsFormsApp4\CommModule\obj\Debug\CommModule.dll
+C:\Users\liuya\source\repos\WindowsFormsApp4\CommModule\obj\Debug\CommModule.pdb
+C:\Users\liuya\source\repos\WindowsFormsApp4\CommModule\obj\Debug\CommModule.csprojAssemblyReference.cache

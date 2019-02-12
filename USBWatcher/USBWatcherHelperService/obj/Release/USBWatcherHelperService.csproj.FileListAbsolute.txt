@@ -1,0 +1,12 @@
+C:\Users\liuya\source\repos\USBWatcher\USBWatcher\bin\Release\USBWatcherHelperService.exe.config
+C:\Users\liuya\source\repos\USBWatcher\USBWatcher\bin\Release\USBWatcherHelperService.exe
+C:\Users\liuya\source\repos\USBWatcher\USBWatcher\bin\Release\USBWatcherHelperService.pdb
+C:\Users\liuya\source\repos\USBWatcher\USBWatcher\bin\Release\log4net.dll
+C:\Users\liuya\source\repos\USBWatcher\USBWatcher\bin\Release\log4net.xml
+C:\Users\liuya\source\repos\USBWatcher\USBWatcher\obj\Release\USBWatcher.ProjectInstaller.resources
+C:\Users\liuya\source\repos\USBWatcher\USBWatcher\obj\Release\USBWatcher.USBWatcherHelperService.resources
+C:\Users\liuya\source\repos\USBWatcher\USBWatcher\obj\Release\USBWatcherHelperService.csproj.GenerateResource.cache
+C:\Users\liuya\source\repos\USBWatcher\USBWatcher\obj\Release\USBWatcherHelperService.csproj.CoreCompileInputs.cache
+C:\Users\liuya\source\repos\USBWatcher\USBWatcher\obj\Release\USBWatcherHelperService.csproj.CopyComplete
+C:\Users\liuya\source\repos\USBWatcher\USBWatcher\obj\Release\USBWatcherHelperService.exe
+C:\Users\liuya\source\repos\USBWatcher\USBWatcher\obj\Release\USBWatcherHelperService.pdb

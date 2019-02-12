@@ -1,0 +1,16 @@
+C:\Users\liuya\source\repos\WindowsFormsApp4\Jade Bird Ciname Booking System\bin\Debug\MainSystem.exe.config
+C:\Users\liuya\source\repos\WindowsFormsApp4\Jade Bird Ciname Booking System\bin\Debug\MainSystem.exe
+C:\Users\liuya\source\repos\WindowsFormsApp4\Jade Bird Ciname Booking System\bin\Debug\MainSystem.pdb
+C:\Users\liuya\source\repos\WindowsFormsApp4\Jade Bird Ciname Booking System\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\liuya\source\repos\WindowsFormsApp4\Jade Bird Ciname Booking System\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\liuya\source\repos\WindowsFormsApp4\Jade Bird Ciname Booking System\obj\Debug\MainSystem.csproj.GenerateResource.cache
+C:\Users\liuya\source\repos\WindowsFormsApp4\Jade Bird Ciname Booking System\obj\Debug\MainSystem.csproj.CoreCompileInputs.cache
+C:\Users\liuya\source\repos\WindowsFormsApp4\Jade Bird Ciname Booking System\obj\Debug\MainSystem.csproj.CopyComplete
+C:\Users\liuya\source\repos\WindowsFormsApp4\Jade Bird Ciname Booking System\obj\Debug\MainSystem.exe
+C:\Users\liuya\source\repos\WindowsFormsApp4\Jade Bird Ciname Booking System\obj\Debug\MainSystem.pdb
+C:\Users\liuya\source\repos\WindowsFormsApp4\Jade Bird Ciname Booking System\obj\Debug\MainSystem.FrmTicketToPrint.resources
+C:\Users\liuya\source\repos\WindowsFormsApp4\Jade Bird Ciname Booking System\obj\Debug\MainSystem.FrmMain.resources
+C:\Users\liuya\source\repos\WindowsFormsApp4\Jade Bird Ciname Booking System\obj\Debug\MainSystem.Properties.Resources.resources
+C:\Users\liuya\source\repos\WindowsFormsApp4\Jade Bird Ciname Booking System\bin\Debug\CommModule.dll
+C:\Users\liuya\source\repos\WindowsFormsApp4\Jade Bird Ciname Booking System\bin\Debug\CommModule.pdb
+C:\Users\liuya\source\repos\WindowsFormsApp4\Jade Bird Ciname Booking System\obj\Debug\MainSystem.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainServerSystem\obj\Debug\MainServerSystem.csprojAssemblyReference.cache
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainServerSystem\obj\Debug\MainServerSystem.FrmMain.resources
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainServerSystem\obj\Debug\MainServerSystem.Properties.Resources.resources
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainServerSystem\obj\Debug\MainServerSystem.csproj.GenerateResource.cache
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainServerSystem\obj\Debug\MainServerSystem.csproj.CoreCompileInputs.cache
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainServerSystem\bin\Debug\服务端程序.exe
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainServerSystem\bin\Debug\服务端程序.pdb
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainServerSystem\bin\Debug\CommModule.dll
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainServerSystem\bin\Debug\CommModule.pdb
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainServerSystem\obj\Debug\MainServerSystem.csproj.CopyComplete
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainServerSystem\obj\Debug\服务端程序.exe
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainServerSystem\obj\Debug\服务端程序.pdb

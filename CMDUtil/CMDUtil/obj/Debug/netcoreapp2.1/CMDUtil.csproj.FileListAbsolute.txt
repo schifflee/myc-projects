@@ -1,0 +1,9 @@
+C:\Users\liuya\source\repos\CMDUtil\CMDUtil\bin\Debug\netcoreapp2.1\CMDUtil.deps.json
+C:\Users\liuya\source\repos\CMDUtil\CMDUtil\bin\Debug\netcoreapp2.1\CMDUtil.dll
+C:\Users\liuya\source\repos\CMDUtil\CMDUtil\bin\Debug\netcoreapp2.1\CMDUtil.pdb
+C:\Users\liuya\source\repos\CMDUtil\CMDUtil\obj\Debug\netcoreapp2.1\CMDUtil.csprojAssemblyReference.cache
+C:\Users\liuya\source\repos\CMDUtil\CMDUtil\obj\Debug\netcoreapp2.1\CMDUtil.csproj.CoreCompileInputs.cache
+C:\Users\liuya\source\repos\CMDUtil\CMDUtil\obj\Debug\netcoreapp2.1\CMDUtil.AssemblyInfoInputs.cache
+C:\Users\liuya\source\repos\CMDUtil\CMDUtil\obj\Debug\netcoreapp2.1\CMDUtil.AssemblyInfo.cs
+C:\Users\liuya\source\repos\CMDUtil\CMDUtil\obj\Debug\netcoreapp2.1\CMDUtil.dll
+C:\Users\liuya\source\repos\CMDUtil\CMDUtil\obj\Debug\netcoreapp2.1\CMDUtil.pdb

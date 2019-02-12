@@ -1,0 +1,22 @@
+C:\Users\liuya\source\repos\MyKTV Management Studio\MyKTV Management Studio\bin\Debug\MyKTV Management Studio.exe
+C:\Users\liuya\source\repos\MyKTV Management Studio\MyKTV Management Studio\bin\Debug\MyKTV Management Studio.pdb
+C:\Users\liuya\source\repos\MyKTV Management Studio\MyKTV Management Studio\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\liuya\source\repos\MyKTV Management Studio\MyKTV Management Studio\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\liuya\source\repos\MyKTV Management Studio\MyKTV Management Studio\obj\Debug\MyKTV_Management_Studio.FrmForgotPWD.resources
+C:\Users\liuya\source\repos\MyKTV Management Studio\MyKTV Management Studio\obj\Debug\MyKTV_Management_Studio.FrmMain.resources
+C:\Users\liuya\source\repos\MyKTV Management Studio\MyKTV Management Studio\obj\Debug\MyKTV_Management_Studio.FrmLogin.resources
+C:\Users\liuya\source\repos\MyKTV Management Studio\MyKTV Management Studio\obj\Debug\MyKTV_Management_Studio.FrmSongsInfo.resources
+C:\Users\liuya\source\repos\MyKTV Management Studio\MyKTV Management Studio\obj\Debug\MyKTV_Management_Studio.Properties.Resources.resources
+C:\Users\liuya\source\repos\MyKTV Management Studio\MyKTV Management Studio\obj\Debug\MyKTV Management Studio.csproj.GenerateResource.cache
+C:\Users\liuya\source\repos\MyKTV Management Studio\MyKTV Management Studio\obj\Debug\MyKTV Management Studio.csproj.CoreCompileInputs.cache
+C:\Users\liuya\source\repos\MyKTV Management Studio\MyKTV Management Studio\obj\Debug\MyKTV Management Studio.csproj.CopyComplete
+C:\Users\liuya\source\repos\MyKTV Management Studio\MyKTV Management Studio\obj\Debug\MyKTV Management Studio.exe
+C:\Users\liuya\source\repos\MyKTV Management Studio\MyKTV Management Studio\obj\Debug\MyKTV Management Studio.pdb
+C:\Users\liuya\source\repos\MyKTV Management Studio\MyKTV Management Studio\bin\Debug\MyKTV Management Studio.exe.config
+C:\Users\liuya\source\repos\MyKTV Management Studio\MyKTV Management Studio\bin\Debug\ChnCharInfo.dll
+C:\Users\liuya\source\repos\MyKTV Management Studio\MyKTV Management Studio\bin\Debug\Mex13.PinYin.dll
+C:\Users\liuya\source\repos\MyKTV Management Studio\MyKTV Management Studio\bin\Debug\NPinyin.dll
+C:\Users\liuya\source\repos\MyKTV Management Studio\MyKTV Management Studio\bin\Debug\Mex13.PinYin.pdb
+C:\Users\liuya\source\repos\MyKTV Management Studio\MyKTV Management Studio\bin\Debug\Mex13.PinYin.xml
+C:\Users\liuya\source\repos\MyKTV Management Studio\MyKTV Management Studio\obj\Debug\MyKTV Management Studio.csprojAssemblyReference.cache
+C:\Users\liuya\source\repos\MyKTV Management Studio\MyKTV Management Studio\obj\Debug\MyKTV_Management_Studio.FrmAddSong.resources

@@ -1,0 +1,16 @@
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainClientSystem\bin\Debug\CommModule.dll
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainClientSystem\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainClientSystem\bin\Debug\CommModule.pdb
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainClientSystem\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainClientSystem\obj\Debug\MainClientSystem.FrmTicketToPrint.resources
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainClientSystem\obj\Debug\MainClientSystem.FrmMain.resources
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainClientSystem\obj\Debug\MainClientSystem.Properties.Resources.resources
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainClientSystem\obj\Debug\MainClientSystem.csproj.GenerateResource.cache
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainClientSystem\obj\Debug\MainClientSystem.csproj.CoreCompileInputs.cache
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainClientSystem\obj\Debug\MainClientSystem.csproj.CopyComplete
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainClientSystem\bin\Debug\主程序.exe.config
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainClientSystem\bin\Debug\主程序.exe
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainClientSystem\bin\Debug\主程序.pdb
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainClientSystem\obj\Debug\主程序.exe
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainClientSystem\obj\Debug\主程序.pdb
+C:\Users\liuya\source\repos\WindowsFormsApp4\MainClientSystem\obj\Debug\MainClientSystem.csprojAssemblyReference.cache

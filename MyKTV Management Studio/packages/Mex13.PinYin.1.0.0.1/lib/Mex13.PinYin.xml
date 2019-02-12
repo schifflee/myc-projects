@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Mex13.PinYin</name>
+    </assembly>
+    <members>
+        <member name="T:Mex13.PinYin.EngName">
+            <summary>
+            中文姓名转英文
+            </summary>
+        </member>
+        <member name="P:Mex13.PinYin.EngName.ChineseName">
+            <summary>
+            中文名(原)
+            </summary>
+        </member>
+        <member name="P:Mex13.PinYin.EngName.FirstName">
+            <summary>
+            名
+            </summary>
+        </member>
+        <member name="P:Mex13.PinYin.EngName.LastName">
+            <summary>
+            姓
+            </summary>
+        </member>
+        <member name="T:Mex13.PinYin.FuXing">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Mex13.PinYin.FuXing.FuXingList">
+            <summary>
+            复性列表, 共82个
+            </summary>
+        </member>
+        <member name="T:Mex13.PinYin.PingYinHelper">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Mex13.PinYin.PingYinHelper.ConvertToEngName(System.String)">
+            <summary>
+            中文姓名转英文
+            识别82个现存复姓
+            已知识别错误字: 赟
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Mex13.PinYin.PingYinHelper.ConvertToAllSpell(System.String)">
+            <summary>
+            汉字转全拼
+            </summary>
+            <param name="strChinese"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Mex13.PinYin.PingYinHelper.GetFirstSpell(System.String)">
+            <summary>
+            汉字转首字母
+            </summary>
+            <param name="strChinese"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

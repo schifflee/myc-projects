@@ -1,0 +1,16 @@
+C:\Users\liuya\source\repos\计算机快速设置\计算机快速设置\bin\Debug\计算机快速设置.exe.config
+C:\Users\liuya\source\repos\计算机快速设置\计算机快速设置\bin\Debug\计算机快速设置.exe
+C:\Users\liuya\source\repos\计算机快速设置\计算机快速设置\bin\Debug\计算机快速设置.pdb
+C:\Users\liuya\source\repos\计算机快速设置\计算机快速设置\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\liuya\source\repos\计算机快速设置\计算机快速设置\bin\Debug\log4net.dll
+C:\Users\liuya\source\repos\计算机快速设置\计算机快速设置\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\liuya\source\repos\计算机快速设置\计算机快速设置\bin\Debug\log4net.xml
+C:\Users\liuya\source\repos\计算机快速设置\计算机快速设置\obj\Debug\计算机快速设置.csprojAssemblyReference.cache
+C:\Users\liuya\source\repos\计算机快速设置\计算机快速设置\obj\Debug\计算机快速设置.Form1.resources
+C:\Users\liuya\source\repos\计算机快速设置\计算机快速设置\obj\Debug\计算机快速设置.Properties.Resources.resources
+C:\Users\liuya\source\repos\计算机快速设置\计算机快速设置\obj\Debug\计算机快速设置.csproj.GenerateResource.cache
+C:\Users\liuya\source\repos\计算机快速设置\计算机快速设置\obj\Debug\计算机快速设置.csproj.CoreCompileInputs.cache
+C:\Users\liuya\source\repos\计算机快速设置\计算机快速设置\obj\Debug\计算机快速设置.csproj.CopyComplete
+C:\Users\liuya\source\repos\计算机快速设置\计算机快速设置\obj\Debug\计算机快速设置.exe
+C:\Users\liuya\source\repos\计算机快速设置\计算机快速设置\obj\Debug\计算机快速设置.pdb
+C:\Users\liuya\source\repos\计算机快速设置\计算机快速设置\obj\Debug\计算机快速设置.Form2.resources

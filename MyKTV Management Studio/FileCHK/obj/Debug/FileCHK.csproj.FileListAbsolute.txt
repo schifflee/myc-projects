@@ -1,0 +1,9 @@
+C:\Users\liuya\source\repos\MyKTV Management Studio\FileCHK\bin\Debug\FileCHK.dll
+C:\Users\liuya\source\repos\MyKTV Management Studio\FileCHK\bin\Debug\FileCHK.pdb
+C:\Users\liuya\source\repos\MyKTV Management Studio\FileCHK\obj\Debug\FileCHK.csprojAssemblyReference.cache
+C:\Users\liuya\source\repos\MyKTV Management Studio\FileCHK\obj\Debug\FileCHK.csproj.CoreCompileInputs.cache
+C:\Users\liuya\source\repos\MyKTV Management Studio\FileCHK\obj\Debug\FileCHK.dll
+C:\Users\liuya\source\repos\MyKTV Management Studio\FileCHK\obj\Debug\FileCHK.pdb
+C:\Users\liuya\source\repos\MyKTV Management Studio\FileCHK\bin\Debug\log4net.dll
+C:\Users\liuya\source\repos\MyKTV Management Studio\FileCHK\bin\Debug\log4net.xml
+C:\Users\liuya\source\repos\MyKTV Management Studio\FileCHK\obj\Debug\FileCHK.csproj.CopyComplete
